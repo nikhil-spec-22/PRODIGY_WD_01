@@ -3,3 +3,5 @@ Create an interactive navigation menu that changes color or style when scrolled 
 Link of the webpage.
 file:///C:/Users/Nikhil%20Reddy/OneDrive/Desktop/Responsive%20Landing%20page%20web%20application/index.html#home
 
+IMAGE:
+![Screenshot 2024-01-12 144125](https://github.com/nikhil-spec-22/PRODIGY_WD_01/assets/134828846/69c7f646-df38-4899-bc0e-cd892e616007)
